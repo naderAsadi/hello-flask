@@ -1,3 +1,8 @@
+# Directories
 **/.vscode
 **/env
+**/__pycache__
+
+# Files
+**/data.db
 
